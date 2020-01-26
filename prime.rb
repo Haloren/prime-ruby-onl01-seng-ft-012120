@@ -16,7 +16,3 @@ def prime?(num)
 end
 
 prime?(2)
-      
-# After "learn submit" you can "git checkout solution"
-# to see how the school expected it to be solved
-#comment out multiply lines with Ctrl + /
